@@ -1,0 +1,25 @@
+.sampul_konten {
+  width: 150px;
+  margin-top: 20px;
+}
+
+.table th {
+  text-align: center;
+}
+
+.table td {
+  text-align: justify;
+}
+
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+
+.float-left a {
+  text-decoration: none;
+  padding: 10px;
+  color: white;
+  background-color: red;
+  border-radius: 20px;
+  margin-left: 10px;
+}
